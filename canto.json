@@ -1,12 +1,5 @@
 [
     {
-      "name": "Canto",
-      "symbol": "CANTO",
-      "decimals": 18,
-      "chainId": 7700,
-      "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
-    },
-    {
       "name": "ETH",
       "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
       "symbol": "ETH",
