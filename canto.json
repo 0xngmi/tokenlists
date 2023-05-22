@@ -70,5 +70,13 @@
         "decimals": 18,
         "chainId": 7700,
         "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoMoon.png"
+      },
+      {
+        "name": "Velocimeter",
+        "address": "0xB5b060055F0d1eF5174329913ef861bC3aDdF029",
+        "symbol": "FLOW",
+        "decimals": 18,
+        "chainId": 7700,
+        "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/flow.png"
       }
   ]
